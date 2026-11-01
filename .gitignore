@@ -1,0 +1,50 @@
+# Local environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+.idea/
+.vscode/
+
+# Personal configuration and machine-specific agent context
+/settings.json
+/tracker_config.json
+/AGENTS.md
+/alignment_spec.md
+/hiring_tracker_alignment.md
+.codex/
+.agents/
+.mcp.json
+.env
+.env.*
+!.env.example
+
+# Browser authentication, outreach state and generated research
+.outreach/
+.playwright-mcp/
+playwright-report/
+test-results/
+output/
+outputs/
+[Rr]esume*/
+*.sqlite*
+*.db
+*.db-*
+*.log
+*storage-state*.json
+*storage_state*.json
+cookies*.json
+credentials*.json
+*.pem
+*.key
+
+# Personal documents and historical spreadsheet exports
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.csv

@@ -1,0 +1,86 @@
+{
+  "candidate": {
+    "name": "Alex Example",
+    "experience": "4+ years",
+    "specialty": "IT talent acquisition",
+    "evidence": "technical sourcing and interview coordination"
+  },
+  "locations": [
+    "Pune",
+    "Mumbai",
+    "Bengaluru",
+    "Jammu"
+  ],
+  "companies": [
+    {
+      "name": "Accenture",
+      "aliases": [
+        "Accenture"
+      ]
+    },
+    {
+      "name": "Capgemini",
+      "aliases": [
+        "Capgemini"
+      ]
+    },
+    {
+      "name": "Cognizant",
+      "aliases": [
+        "Cognizant"
+      ]
+    },
+    {
+      "name": "Infosys",
+      "aliases": [
+        "Infosys"
+      ]
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "aliases": [
+        "Tata Consultancy Services",
+        "TCS"
+      ]
+    },
+    {
+      "name": "Wipro",
+      "aliases": [
+        "Wipro"
+      ]
+    },
+    {
+      "name": "IBM",
+      "aliases": [
+        "IBM"
+      ]
+    },
+    {
+      "name": "Deloitte",
+      "aliases": [
+        "Deloitte"
+      ]
+    }
+  ],
+  "search_roles": [
+    "Talent Acquisition",
+    "HR recruiter",
+    "Talent Acquisition Manager",
+    "Talent Acquisition Team Lead",
+    "Talent Acquisition Specialist",
+    "Talent Acquisition Analyst",
+    "Human Resource IT Recruiter",
+    "Recruiting Senior Analyst",
+    "Talent Acquisition Executive",
+    "Recruiting Specialist",
+    "Recruiting Analyst"
+  ],
+  "max_searches_per_cycle": 4,
+  "max_profiles_per_cycle": 12,
+  "max_sends_per_cycle": 3,
+  "max_sends_per_24h": 10,
+  "seconds_between_actions": 30,
+  "cycle_interval_seconds": 3600,
+  "invitation_character_limit": 200,
+  "browser_channel": "chrome"
+}
